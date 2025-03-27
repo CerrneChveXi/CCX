@@ -17,5 +17,13 @@ p{
   color:black;
   text-align:right;
 }
-
+a:link{
+    color:grey;
+  }
+  a:visited{
+    color:grey;
+  }
+  a:hover{
+    color: MediumSeaGreen;
+  }
   
