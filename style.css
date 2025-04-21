@@ -17,6 +17,9 @@ p{
   color:black;
   text-align:center;
 }
+iframe{
+  text-align:center;
+}
 a:link{
     color:grey;
   }
